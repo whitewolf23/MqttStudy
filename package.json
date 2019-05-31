@@ -1,0 +1,23 @@
+{
+  "name": "mqttstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitewolf23/MqttStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitewolf23/MqttStudy/issues"
+  },
+  "homepage": "https://github.com/whitewolf23/MqttStudy#readme",
+  "dependencies": {
+    "mosca": "^2.8.3",
+    "nodemon": "^1.19.1"
+  }
+}
